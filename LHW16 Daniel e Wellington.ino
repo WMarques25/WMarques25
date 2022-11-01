@@ -1,3 +1,6 @@
+// Montagem do circuito no simulador Tinkercad pelo link abaixo:
+// https://www.tinkercad.com/things/5ubL8hKwXN8?sharecode=S_q8OzEBSr0yg4Vy_edgXgH4o5U_NFSp6t9Qho_8HMg
+
 #include <Adafruit_LiquidCrystal.h>
 #define DO 264 
 #define RE 297 
@@ -43,6 +46,7 @@ void setup() {
   lcd_1.print("SOL  LA  SI  LDd");
 }
 
+// Função para limpar a marcação da nota tocada.
 void limpa()
 {
   lcd_1.setCursor(2, 0);
@@ -61,6 +65,7 @@ void limpa()
   lcd_1.print(" ");
 }
 
+// Função para acender o led e indicar na tela LCD que está aceso.
 void led_on()
 {
   digitalWrite(led, HIGH);
