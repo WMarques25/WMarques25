@@ -3,7 +3,7 @@
   <p>
     :man_student: Studing at: 
   </p>
-<img src="https://fatecrl.edu.br/static/img/logo-fatec.png" height="50"/> </div>
+<img src="https://fatecrl.edu.br/static/img/logo-fatec.png" height="80"/> </div>
 <h2>:man_technologist: Learning...</h2>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
