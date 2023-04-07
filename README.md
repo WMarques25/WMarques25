@@ -1,8 +1,8 @@
 <h1> Wellington Marques</h1>
 
-<table width="100%" align="right">
+<table width="100%" align="center">
  <tr>
-    <td align="left" width="45%">
+    <td align="left" width="40%">
       <div align="center">
       <h2 align="left">:man_student: Studing at:</h2>
       <a href="https://fatecrl.edu.br/cursos/analise-e-desenvolvimento-de-sistemas"><img align="center" src="https://fatecrl.edu.br/static/img/logo-fatec.png" height="150"/></a>
@@ -40,6 +40,8 @@
    <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=wmarques25&repo=Imersao-Java-Alura&theme=github_dark"></a>
    <a href="https://github.com/WMarques25/fatec">
     <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=wmarques25&repo=Fatec&theme=github_dark"></a>
+   <a href="https://github.com/WMarques25/Estudos-Alura">
+    <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=wmarques25&repo=Estudos-Alura&theme=github_dark"></a>
     </div>
    </td>
  </tr>
