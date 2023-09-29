@@ -44,11 +44,11 @@
    <img align="right" width="620" src="https://github-readme-stats.vercel.app/api?username=wmarques25&count_private=true&show_icons=true&theme=github_dark"><br>
    <img align="right" width="41.4424%" src="https://github-readme-stats.vercel.app/api/top-langs?username=wmarques25&lang_count=16&format=compact&theme=github_dark"></a>
    <a href="https://github.com/WMarques25/Imersao-Java-Alura">
-   <img align="left" width="51%" src="https://github-readme-stats.vercel.app/api/pin/?username=wmarques25&repo=Imersao-Java-Alura&theme=github_dark"></a>
+   <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=wmarques25&repo=Imersao-Java-Alura&theme=github_dark"></a>
    <a href="https://github.com/WMarques25/fatec">
-    <img align="left" width="51%" src="https://github-readme-stats.vercel.app/api/pin/?username=wmarques25&repo=Fatec&theme=github_dark"></a>
+    <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=wmarques25&repo=Fatec&theme=github_dark"></a>
    <a href="https://github.com/WMarques25/Estudos-Alura">
-    <img align="left" width="51%" src="https://github-readme-stats.vercel.app/api/pin/?username=wmarques25&repo=Estudos-Alura&theme=github_dark"></a>
+    <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=wmarques25&repo=Estudos-Alura&theme=github_dark"></a>
     </div>
    </td>
  </tr>
