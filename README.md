@@ -4,7 +4,7 @@
  <tr>
     <td align="left" width="40%">
       <div align="center">
-      <h2 align="left">:man_student: Studing at:</h2>
+      <h2 align="left">👨‍🎓 Studing at:</h2>
       <a align="left" href="https://fatecrl.edu.br/cursos/analise-e-desenvolvimento-de-sistemas"><img align="center" src="https://fatecrl.edu.br/static/img/logo-fatec.png" height="100"/></a>
       <a align="right" href="https://cursos.alura.com.br/vitrinedev/wellingtonnn"><img align="center" src="https://cursos.alura.com.br/assets/images/logos/logo-alura.svg" height="100"/></a>
       </div>
@@ -13,7 +13,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60"/>  
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60"/>   -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/cucumber/cucumber-plain.svg" width="60" height="60"/>
 </div>
 <div align="center">
