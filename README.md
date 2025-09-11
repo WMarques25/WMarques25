@@ -38,7 +38,7 @@ I'm a Backend Developer from Brazil, focused on the Java and Spring ecosystem. I
   <img src="https://devicon-website.vercel.app/api/postgresql/plain-wordmark.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50"/>
-  <img src="https://images.seeklogo.com/logo-png/39/1/flyway-logo-png_seeklogo-397666.png" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Flyway_logo.svg/960px-Flyway_logo.svg.png?20210210163603" width="50" height="50"/>
 </p>
 <p align="left">
   <strong>Testing:</strong><br>
