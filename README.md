@@ -77,6 +77,6 @@ I'm a Backend Developer from Brazil, focused on the Java and Spring ecosystem. I
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=wmarques25&count_private=true&show_icons=true&theme=github_dark" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=wmarques25&lang_count=10&layout=compact&theme=github_dark" />
+  <img width="56%" src="https://github-readme-stats.vercel.app/api?username=wmarques25&count_private=true&show_icons=true&theme=github_dark" />
+  <img width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=wmarques25&lang_count=10&layout=compact&theme=github_dark" />
 </p>
